@@ -1,2 +1,2 @@
 # ImageClassifier
-A program designed to segregate onjects from an image by comparing pixel values
+A program designed to segregate objects from an image by comparing pixel values
